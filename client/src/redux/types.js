@@ -1,0 +1,8 @@
+export const GET_ALL_CATS = 'GET_ALL_CATS'
+export const GET_ALL_DOGS = 'GET_ALL_DOGS'
+export const ADD_CAT = 'ADD_CAT'
+export const ADD_DOG = 'ADD_DOG'
+export const GET_ALL_BLACK = 'GET_ALL_BLACK'
+export const ADD_BLACK = 'ADD_BLACK'
+export const SET_USER = 'SET_USER'
+export const DELETE_USER = 'DELETE_USER'

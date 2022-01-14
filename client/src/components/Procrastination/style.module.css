@@ -1,0 +1,28 @@
+.proContainer {
+  height: 500px;
+  width: 600px;
+  border: solid 1px;
+  margin: 0 auto;
+}
+
+.image {
+  display: block;
+  margin: 0 auto;
+  height: 300px;
+  width: 350px;
+  border: solid 1px;
+}
+
+.btnContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.btnGrade {
+  margin: 7px;
+}
+
+.frame {
+  margin-top: 50px;
+  margin-bottom: 70px;
+}
