@@ -7,6 +7,7 @@ import Procrastination from "./components/Procrastination/Procrastination";
 import Register from "./components/Register/Register";
 
 function App() {
+  const a = 1
   return (
     <div className="App">
       <Header />
